@@ -1,0 +1,13 @@
+org/springframework/samples/petclinic/lots/LotsServiceApplication.class
+org/springframework/samples/petclinic/lots/repository/TypeDeTrancheRepository.class
+org/springframework/samples/petclinic/lots/entity/Lot.class
+org/springframework/samples/petclinic/lots/repository/TrancheRepository.class
+org/springframework/samples/petclinic/lots/repository/TacheRepository.class
+org/springframework/samples/petclinic/lots/repository/PhaseRepository.class
+org/springframework/samples/petclinic/lots/entity/Tache.class
+org/springframework/samples/petclinic/lots/entity/Phase.class
+org/springframework/samples/petclinic/lots/entity/Affaire.class
+org/springframework/samples/petclinic/lots/entity/Tranche.class
+org/springframework/samples/petclinic/lots/repository/LotRepository.class
+org/springframework/samples/petclinic/lots/entity/TypeDeTranche.class
+org/springframework/samples/petclinic/lots/config/MetricConfig.class

@@ -1,0 +1,5 @@
+org/springframework/samples/petclinic/compteRendu/entity/CompteRendu.class
+org/springframework/samples/petclinic/compteRendu/config/MetricConfig.class
+org/springframework/samples/petclinic/compteRendu/repository/CompteRenduRepository.class
+org/springframework/samples/petclinic/compteRendu/entity/Affaire.class
+org/springframework/samples/petclinic/compteRendu/CompteRenduServiceApplication.class

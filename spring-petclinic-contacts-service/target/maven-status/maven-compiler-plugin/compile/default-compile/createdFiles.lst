@@ -1,0 +1,4 @@
+org/springframework/samples/petclinic/contacts/entity/Contact.class
+org/springframework/samples/petclinic/contacts/repository/ContactRepository.class
+org/springframework/samples/petclinic/contacts/ContactsServiceApplication.class
+org/springframework/samples/petclinic/contacts/config/MetricConfig.class

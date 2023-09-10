@@ -1,0 +1,6 @@
+org/springframework/samples/petclinic/affaires/entity/Affaire.class
+org/springframework/samples/petclinic/affaires/AffairesServiceApplication.class
+org/springframework/samples/petclinic/affaires/repository/AffaireRepository.class
+org/springframework/samples/petclinic/affaires/entity/Lots.class
+org/springframework/samples/petclinic/affaires/config/MetricConfig.class
+org/springframework/samples/petclinic/affaires/entity/CompteRendu.class

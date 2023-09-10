@@ -1,0 +1,5 @@
+org/springframework/samples/petclinic/intervenants/entity/Contact.class
+org/springframework/samples/petclinic/intervenants/config/MetricConfig.class
+org/springframework/samples/petclinic/intervenants/entity/Intervenant.class
+org/springframework/samples/petclinic/intervenants/repository/IntervenantRepository.class
+org/springframework/samples/petclinic/intervenants/IntervenantsServiceApplication.class

@@ -1,0 +1,76 @@
+spring:
+  application:
+    name: api-gateway
+  config:
+    import: optional:configserver:${CONFIG_SERVER_URL:http://localhost:8888/}
+  cloud:
+    gateway:
+      routes:
+        - id: vets-service
+          uri: lb://vets-service
+          predicates:
+            - Path=/api/vet/**
+          filters:
+            - StripPrefix=2
+        - id: visits-service
+          uri: lb://visits-service
+          predicates:
+            - Path=/api/visit/**
+          filters:
+            - StripPrefix=2
+        - id: customers-service
+          uri: lb://customers-service
+          predicates:
+            - Path=/api/customer/**
+          filters:
+            - StripPrefix=2
+
+        - id: intervenants-service
+          uri: lb://intervenants-service
+          predicates:
+            - Path=/api/intervenants/**
+          filters:
+            - StripPrefix=2
+
+        - id: affaires-service
+          uri: lb://affaires-service
+          predicates:
+            - Path=/api/affaires/**
+          filters:
+            - StripPrefix=2
+
+        - id: affaires-service
+          uri: lb://affaires-service
+          predicates:
+            - Path=/api/affaires/**
+          filters:
+            - StripPrefix=2
+
+        - id: lots-service
+          uri: lb://lots-service
+          predicates:
+            - Path=/api/lots/**
+          filters:
+            - StripPrefix=2
+
+        - id: compteRendu-service
+          uri: lb://compteRendu-service
+          predicates:
+            - Path=/api/compteRendu/**
+          filters:
+            - StripPrefix=2
+
+        - id: contacts-service
+          uri: lb://contacts-service
+          predicates:
+            - Path=/api/contacts/**
+          filters:
+            - StripPrefix=2
+
+
+---
+spring:
+  config:
+    activate:
+      on-profile: docker
+    import: configserver:http://config-server:8888

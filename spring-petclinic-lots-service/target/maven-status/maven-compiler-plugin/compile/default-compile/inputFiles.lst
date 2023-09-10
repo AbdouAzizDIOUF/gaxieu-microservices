@@ -1,0 +1,13 @@
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/LotsServiceApplication.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/repository/TacheRepository.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/repository/TrancheRepository.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/entity/Lot.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/entity/Tranche.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/repository/PhaseRepository.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/entity/TypeDeTranche.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/entity/Tache.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/repository/LotRepository.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/entity/Phase.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/entity/Affaire.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/repository/TypeDeTrancheRepository.java
+/Users/Memoire/code/github/spring-petclinic-microservices/spring-petclinic-lots-service/src/main/java/org/springframework/samples/petclinic/lots/config/MetricConfig.java
